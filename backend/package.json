@@ -8,7 +8,7 @@
 		"build": "npx tsc -b"
 	},
 	"keywords": [],
-	"author": "Harman Batheja",
+	"author": "Aman Kumar",
 	"license": "ISC",
 	"description": "",
 	"dependencies": {

@@ -6,8 +6,7 @@ React, Node, Express, TypeScript, Postgres, Prisma ORM, Tailwind CSS, S3 Bucket,
 
 ## Steps to run the project:
 
-- git clone `https://github.com/harmanbatheja15/course-selling-app.git`
-
+- git clone `https://github.com/Aman2222123/Couse-Selling-App.git`
 ## Backend:
 
 - cd `backend`
